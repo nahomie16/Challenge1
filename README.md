@@ -6,7 +6,7 @@
 
 ![Logo](https://soccermommanual.com/wp-content/uploads/2013/03/FC_Barcelona_1600.jpg)
 
-[Back to other markdown](https://github.com/nahomie16/Challenge1/blob/master/README.md)
+[Back to other markdown](https://github.com/nahomie16/Challenge1/blob/master/barc.md)
 <div id="introduction">
 
 
